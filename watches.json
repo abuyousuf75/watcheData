@@ -1,0 +1,21 @@
+[
+    {
+      "brand": "Apple",
+      "model": "Calatrava",
+      "year": 2019,
+      "priceUSD": 2500
+    },
+    {
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "year": 2020,
+      "priceUSD": 30000
+    },
+    {
+      "brand": "Panerai",
+      "model": "Luminor",
+      "year": 2022,
+      "priceUSD": 12000
+    }
+  ]
+  
